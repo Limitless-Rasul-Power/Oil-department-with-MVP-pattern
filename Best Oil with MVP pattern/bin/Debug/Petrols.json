@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "BP",
+    "InitialPrice": 9.9
+  },
+  {
+    "Name": "Speedway",
+    "InitialPrice": 5.3
+  },
+  {
+    "Name": "Delta",
+    "InitialPrice": 2.1
+  },
+  {
+    "Name": "Bates Oil",
+    "InitialPrice": 4.8
+  },
+  {
+    "Name": "Cosmo Oil",
+    "InitialPrice": 3.2
+  }
+]

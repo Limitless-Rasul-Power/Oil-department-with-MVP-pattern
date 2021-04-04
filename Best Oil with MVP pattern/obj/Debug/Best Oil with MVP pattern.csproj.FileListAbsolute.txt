@@ -1,0 +1,18 @@
+C:\Users\Admin\source\repos\Best Oil with MVP pattern\Best Oil with MVP pattern\bin\Debug\Best Oil with MVP pattern.exe.config
+C:\Users\Admin\source\repos\Best Oil with MVP pattern\Best Oil with MVP pattern\bin\Debug\Best Oil with MVP pattern.exe
+C:\Users\Admin\source\repos\Best Oil with MVP pattern\Best Oil with MVP pattern\bin\Debug\Best Oil with MVP pattern.pdb
+C:\Users\Admin\source\repos\Best Oil with MVP pattern\Best Oil with MVP pattern\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\Best Oil with MVP pattern\Best Oil with MVP pattern\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\Best Oil with MVP pattern\Best Oil with MVP pattern\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\source\repos\Best Oil with MVP pattern\Best Oil with MVP pattern\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Best Oil with MVP pattern\Best Oil with MVP pattern\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\Best Oil with MVP pattern\Best Oil with MVP pattern\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\Best Oil with MVP pattern\Best Oil with MVP pattern\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\Best Oil with MVP pattern\Best Oil with MVP pattern\obj\Debug\Best Oil with MVP pattern.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Best Oil with MVP pattern\Best Oil with MVP pattern\obj\Debug\Best_Oil_with_MVP_pattern.Properties.Resources.resources
+C:\Users\Admin\source\repos\Best Oil with MVP pattern\Best Oil with MVP pattern\obj\Debug\Best_Oil_with_MVP_pattern.View.MainView.resources
+C:\Users\Admin\source\repos\Best Oil with MVP pattern\Best Oil with MVP pattern\obj\Debug\Best Oil with MVP pattern.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Best Oil with MVP pattern\Best Oil with MVP pattern\obj\Debug\Best Oil with MVP pattern.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Best Oil with MVP pattern\Best Oil with MVP pattern\obj\Debug\Best Oil with MVP pattern.csproj.CopyComplete
+C:\Users\Admin\source\repos\Best Oil with MVP pattern\Best Oil with MVP pattern\obj\Debug\Best Oil with MVP pattern.exe
+C:\Users\Admin\source\repos\Best Oil with MVP pattern\Best Oil with MVP pattern\obj\Debug\Best Oil with MVP pattern.pdb

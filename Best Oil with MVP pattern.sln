@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Best Oil with MVP pattern", "Best Oil with MVP pattern\Best Oil with MVP pattern.csproj", "{EF9D581C-92C5-47FF-9087-9CFBA494990E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF9D581C-92C5-47FF-9087-9CFBA494990E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9D581C-92C5-47FF-9087-9CFBA494990E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9D581C-92C5-47FF-9087-9CFBA494990E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9D581C-92C5-47FF-9087-9CFBA494990E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DC7197E-516A-44CC-B7E3-04B0E8D17DD2}
+	EndGlobalSection
+EndGlobal
